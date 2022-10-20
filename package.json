@@ -1,6 +1,6 @@
 {
   "name": "@akash87/react-oauth2-pkce",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "Authenticate against generic OAuth2 using PKCE",
   "author": "Akash Gupta <akash@brightsquid.com>",
   "license": "MIT",
